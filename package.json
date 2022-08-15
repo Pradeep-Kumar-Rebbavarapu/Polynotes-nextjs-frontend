@@ -30,6 +30,11 @@
     "styled-components": "^5.3.5",
     "yup": "^0.32.11"
   },
+  "engines": {
+    "node": "17.8.0",
+    "npm": "8.10.0",
+    "yarn": "1.22.18"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
     "eslint": "8.21.0",
