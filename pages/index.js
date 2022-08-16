@@ -40,35 +40,35 @@ export default function Home() {
 
               <div className="md:p-2 p-1 w-1/2">
                 <Slide top>
-                  <Image alt="gallery" className="w-full object-cover h-full object-center block" src={Home2} placeholder="blur" />
+                  <Image alt="loading..." className="w-full object-cover h-full object-center block" src={Home2} placeholder="blur" />
                 </Slide>
               </div>
 
               <div className="md:p-2 p-1 w-1/2">
                 <Slide top>
-                  <Image alt="gallery" className="w-full object-cover h-full object-center block" src={Home6} placeholder="blur" />
+                  <Image alt="loading..." className="w-full object-cover h-full object-center block" src={Home6} placeholder="blur" />
                 </Slide>
               </div>
               <div className="md:p-2 p-1 w-full">
                 <Slide bottom>
-                  <Image alt="gallery" className="w-full h-full object-cover object-center block" src={Home1} placeholder="blur" />
+                  <Image alt="loading..." className="w-full h-full object-cover object-center block" src={Home1} placeholder="blur" />
                 </Slide>
               </div>
             </div>
             <div className="flex flex-wrap w-1/2">
               <div className="md:p-2 p-1 w-full">
                 <Slide top>
-                  <Image placeholder="blur" alt="gallery" className="w-full h-full object-cover object-center block" src={Home3} />
+                  <Image placeholder="blur" alt="loading..." className="w-full h-full object-cover object-center block" src={Home3} />
                 </Slide>
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <Slide bottom>
-                  <Image alt="gallery" className="w-full object-cover h-full object-center block" src={Home4} placeholder="blur" />
+                  <Image alt="loading..." className="w-full object-cover h-full object-center block" src={Home4} placeholder="blur" />
                 </Slide>
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <Slide bottom>
-                  <Image placeholder="blur" alt="gallery" className="w-full object-cover h-full object-center block" src={Home4} />
+                  <Image placeholder="blur" alt="loading..." className="w-full object-cover h-full object-center block" src={Home4} />
                 </Slide>
               </div>
             </div>
@@ -91,7 +91,7 @@ export default function Home() {
             <div className="p-4 mx-auto">
               <div className="h-full flex flex-col items-center text-center">
               <Zoom top>
-                <Image alt="team" className="flex-shrink-0 rounded-lg h-full object-cover object-center mb-4" placeholder="blur" src={Photo1}/>
+                <Image alt="loading..." className="flex-shrink-0 rounded-lg h-full object-cover object-center mb-4" placeholder="blur" src={Photo1}/>
                 </Zoom>
                   <div className="w-full">
                     <Flip><h2 className="title-font font-medium text-lg text-gray-900">Pradeep Kumar.R</h2></Flip>
